@@ -1,3 +1,4 @@
+---
 
 
 # 联系方式
@@ -15,7 +16,7 @@
  - GitHub：https://github.com/WilSenwish
  - 技术博客：https://github.com/WilSenwish
  - 期望职位：Java 高级工程师
- - 期望薪资：税前月薪 20k~25k
+ - 期望薪资：税前月薪 20K ~ 25K
  - 期望城市：北京
 
 
