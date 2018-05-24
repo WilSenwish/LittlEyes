@@ -1,4 +1,4 @@
-# **<center> [个人简历 - 陈俊兵](http://pers.wilsenwish.com/) </center>**
+# [**<center> 个人简历 - 陈俊兵 </center>**](http://pers.wilsenwish.com/)
 
 
 # 联系方式
