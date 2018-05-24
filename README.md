@@ -47,7 +47,7 @@
 
 ## 技术文章
 
-- [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
+- [1. Java 基础开发环境搭建指南](https://github.com/WilSenwish/wilsenwish.github.io/blob/master/JavaBaseEnv.md)
 
 
 # 技能清单
