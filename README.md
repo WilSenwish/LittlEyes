@@ -4,7 +4,7 @@
 # 联系方式
 
 - 手 机：186 7653 2114 （佛山号码）
-- Email：1425854351@qq.com
+- Email：<1425854351@qq.com>
 - QQ / 微信：1425854351 / 186 7653 2114
 
 
@@ -13,8 +13,8 @@
  - 陈俊兵 / 男 / 1991 
  - 本 科 / 北京信息科技大学 - 软件工程
  - 工作年限：4 年
- - GitHub：[https://github.com/WilSenwish](https://github.com/WilSenwish)
- - 技术博客：[https://wilsenwish.github.io](https://wilsenwish.github.io)
+ - GitHub：<https://github.com/WilSenwish>
+ - 技术博客：<https://wilsenwish.github.io>
  - 期望职位：Java 高级工程师
  - 期望薪资：税前月薪 **20K ~ 25K**
  - 期望城市：北京
