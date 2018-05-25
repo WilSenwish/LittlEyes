@@ -14,7 +14,7 @@
  - 本 科 / 北京信息科技大学 - 软件工程
  - 工作年限：4 年
  - GitHub：[https://github.com/WilSenwish](https://github.com/WilSenwish)
- - 技术博客：[https://github.com/WilSenwish](https://github.com/WilSenwish)
+ - 技术博客：[https://wilsenwish.github.io](https://wilsenwish.github.io)
  - 期望职位：Java 高级工程师
  - 期望薪资：税前月薪 **20K ~ 25K**
  - 期望城市：北京
