@@ -12,11 +12,12 @@
 
  - 陈俊兵 / 男 / 1991 
  - 本 科 / 北京信息科技大学 - 软件工程
+ - 政治面貌：党员
  - 工作年限：4 年
  - GitHub：<https://github.com/WilSenwish>
  - 技术博客：<https://wilsenwish.github.io>
  - 期望职位：Java 高级工程师
- - 期望薪资：税前月薪 **20K ~ 25K**
+ - 期望薪资：税前月薪 **22K+**
  - 期望城市：北京
 
 
@@ -38,12 +39,12 @@
 
 ## 开源项目
 
-- [oop234](https://github.com/WilSenwish/oop234)：使用 Spring、SpringMVC 和 MyBatis 开发的多模块项目
 - [java-classical](https://github.com/WilSenwish/java-classical)：设计模式和算法的 Java 代码实现
 
 ## 技术文章
 
-- [设计模式 之 单例模式](https://github.com/WilSenwish/java-classical/blob/master/design-patterns/docs/singleton.md)
+- [设计模式 之 独一无二的单例模式](https://github.com/WilSenwish/java-classical/blob/master/design-patterns/docs/singleton.md)
+- [设计模式 之 控制对象访问的代理模式](https://github.com/WilSenwish/java-classical/blob/master/design-patterns/docs/proxy.md)
 
 
 # 技能清单
