@@ -44,6 +44,7 @@
 
 - [设计模式 之 独一无二的单例模式](https://github.com/WilSenwish/java-classical/blob/master/design-patterns/docs/singleton.md)
 - [设计模式 之 控制对象访问的代理模式](https://github.com/WilSenwish/java-classical/blob/master/design-patterns/docs/proxy.md)
+- [设计模式 之 让你的对象知悉现况的观察者模式](https://github.com/WilSenwish/java-classical/blob/master/design-patterns/docs/observer.md)
 
 
 # 技能清单
