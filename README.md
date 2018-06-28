@@ -11,13 +11,11 @@
 # 个人信息
 
  - 陈俊兵 / 男 / 1991 
- - 本 科 / 北京信息科技大学 - 软件工程
+ - 本 科 / 北京信息科技大学 - 计算机学院 - 软件工程专业
  - 政治面貌：党员
  - 工作年限：4 年
  - GitHub：<https://github.com/WilSenwish>
  - 期望职位：Java 高级工程师
- - 期望薪资：税前月薪 **20K+**
- - 期望城市：北京
 
 
 # 工作经历
@@ -34,27 +32,14 @@
 我在此项目负责了登录、（组织机构、用户、应用与权限）管理、支付和动态口令功能模块的开发。梳理原有 PC 登录逻辑，拆分并整合逻辑后开发 APP 端登录逻辑，同时完善应用授权跳转逻辑；透彻理解系统的组织机构、用户、应用与权限的关系并熟记于心，不断完善这一复杂关系的数据库表设计与接口实现，且在有需要时为团队其他成员提供相关解答；集成微信与支付宝支付接口，并对接口进行二次包装整合；实现手机动态口令服务端接口。
 
 
-# 开源项目和作品
-
-## 开源项目
-
-- [java-classical](https://github.com/WilSenwish/java-classical)：设计模式和算法的 Java 代码实现
-
-## 技术文章
-
-- [设计模式 之 独一无二的单例模式](https://github.com/WilSenwish/java-classical/blob/master/design-patterns/docs/singleton.md)
-- [设计模式 之 控制对象访问的代理模式](https://github.com/WilSenwish/java-classical/blob/master/design-patterns/docs/proxy.md)
-- [设计模式 之 让你的对象知悉现况的观察者模式](https://github.com/WilSenwish/java-classical/blob/master/design-patterns/docs/observer.md)
-
-
 # 技能清单
 
-- Web 开发：Java / JVM / Servlet / JSP / MVC / AOP / Node / Javascript
-- Web 框架：Spring / SpringMVC / MyBatis / Struts / Hibernate / Express
-- 数据库相关：SQL / MySQL / Redis / MongoDB / Sequelize
-- 版本管理和文档：Git / SVN / Swagger / GitWiki / Markdown
+- Web 开发：Java / JVM / MVC / AOP / Activiti
+- Web 框架：Spring / Spring-Boot / SpringMVC / MyBatis
+- 数据库相关：SQL / MySQL / Redis / MongoDB
+- 版本管理和文档：Git / Swagger / GitWiki / Markdown
 - 开发工具、构建和自动化部署工具：Eclipse / WebStorm / Maven / Jenkins
-- 其他：Linux / Activiti / Nginx / WebService / MQ / Jms / Sping-Data / UML / Restful
+- 其他：Linux / Nginx / WebService / MQ / Sping-Data / UML / Restful
 
 
 ---      
