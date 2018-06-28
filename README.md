@@ -34,12 +34,11 @@
 
 # 技能清单
 
-- Web 开发：Java / JVM / MVC / AOP / Activiti
+- Java 开发：Java / JVM / MVC / AOP / 并发&多线程 / 设计模式 / Activiti
 - Web 框架：Spring / Spring-Boot / SpringMVC / MyBatis
 - 数据库相关：SQL / MySQL / Redis / MongoDB
-- 版本管理和文档：Git / Swagger / GitWiki / Markdown
 - 开发工具、构建和自动化部署工具：Eclipse / WebStorm / Maven / Jenkins
-- 其他：Linux / Nginx / WebService / MQ / Sping-Data / UML / Restful
+- 其他：Linux / Nginx / MQ / Git
 
 
 ---      
