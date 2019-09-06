@@ -64,6 +64,6 @@
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
-_简历网络地址： <http://wilsenwish.com/>_
+_简历网络地址： <http://www.wilsenwish.com/>_
 
 
